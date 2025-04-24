@@ -43,42 +43,34 @@
 - Low Performance: 200 employees
 - Attrition is categorized based on the field of education: Technical Degree: 32 employees ,Medical: 63 employees ,Marketing: 35 employees,Life Sciences: 8 employees ,Human Resources: 7 employees
 - Attrition data categorized by job roles: Sales Representative: 33 employees, Sales Executive: 57 employees,Research Scientist: 47 employees, Research Director: 2 employees,Manufacturing Director: 10 employees, Manager: Number of employees not specified,Laboratory Technician: 62 employees,Human Resources: 12 employees,Healthcare Representative: 9 employees
+- By Gender: Female: 87 employees, Male: 150 employees
+- By Travel: Non-Travel: 12 employees ,Travel Frequently: 69 employees ,Travel Rarely: 156 employees
+- By Department: HR: 12 employees ,R&D: 92 employees, Sales: 193 employees
+- By Job Satisfaction:
 
-- By Gender:Female: 87 employees
+- Job satisfaction of employees who left: Very Satisfied: 56 employees, Very Dissatisfied: 65 employees,Satisfied: 54 employees
+,Dissatisfied: 62 employees
 
-Male: 150 employees
+## Final Conclusion & Recommendations
 
-By Travel:
+### Performance-Based Attrition:
 
-Non-Travel: 12 employees
+- Low performers (200 exits) may need better performance management or role adjustments.
 
-Travel Frequently: 69 employees
+- High performers (37 exits) require retention strategies (e.g., career growth, recognition).
 
-Travel Rarely: 156 employees
+### Job Role & Department Focus:
 
-By Department:
+- Lab Technicians & Sales Executives need targeted interventions (training, workload balance).
 
+- Research Directors & HR have low attrition—study their retention practices.
 
-Attrition broken down by department:
+### Education & Industry-Specific Trends:
 
-HR: 12 employees
+- Life Sciences & Medical fields face high turnover—review compensation and work environment.
 
-R&D: 92 employees
+### Job Satisfaction & Travel Impact:
 
-Sales: 193 employees
+- Dissatisfied employees are a flight risk—conduct exit interviews to identify pain points.
 
-By Job Satisfaction:
-
-Job satisfaction of employees who left:
-
-Very Satisfied: 56 employees
-
-Very Dissatisfied: 65 employees
-
-Satisfied: 54 employees
-
-Dissatisfied: 62 employees
-
-This dashboard gives you an in-depth view of employee attrition, including factors like performance, education field, job roles, gender, travel requirements, department,
-
-and job satisfaction. It provides valuable insights into where and why attrition is occurring within the company.
+- Frequent travelers have higher attrition—consider flexible work policies.
