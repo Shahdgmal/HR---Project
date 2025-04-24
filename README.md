@@ -41,44 +41,10 @@
 - Average Age of Employee (36): The average age of employees in the company is 36 years.
 - High Performance: 37 employees
 - Low Performance: 200 employees
-- Attrition is categorized based on the field of education:
--- Technical Degree: 32 employees
+- Attrition is categorized based on the field of education: Technical Degree: 32 employees ,Medical: 63 employees ,Marketing: 35 employees,Life Sciences: 8 employees ,Human Resources: 7 employees
+- Attrition data categorized by job roles: Sales Representative: 33 employees, Sales Executive: 57 employees,Research Scientist: 47 employees, Research Director: 2 employees,Manufacturing Director: 10 employees, Manager: Number of employees not specified,Laboratory Technician: 62 employees,Human Resources: 12 employees,Healthcare Representative: 9 employees
 
-Medical: 63 employees
-
-Marketing: 35 employees
-
-Life Sciences: 8 employees
-
-Others: 11 employees
-
-Human Resources: 7 employees
-
-By Job Role:
-
-Attrition data categorized by job roles:
-
-Sales Representative: 33 employees
-
-Sales Executive: 57 employees
-
-Research Scientist: 47 employees
-
-Research Director: 2 employees
-
-Manufacturing Director: 10 employees
-
-Manager: Number of employees not specified
-
-Laboratory Technician: 62 employees
-
-Human Resources: 12 employees
-
-Healthcare Representative: 9 employees
-
-By Gender:
-
-Female: 87 employees
+- By Gender:Female: 87 employees
 
 Male: 150 employees
 
