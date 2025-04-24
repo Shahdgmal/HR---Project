@@ -1,147 +1,48 @@
-the HR Data Set contain:
+# HR Analysis In Excel
 
-Business Travel:
-This indicates whether the employee frequently travels for work, such as for business trips or client meetings.
+## Project Objective
 
-CF_attrition label:
-Likely a label indicating whether an employee has left the company (attrition) or stayed, typically a binary classification (e.g., "Yes" for left, "No" for stayed).
+### The objective of this project is to analyze employee attrition trends to:
 
-Department:
-The department in which the employee works (e.g., HR, IT, Sales).
+- Identify key factors contributing to employee turnover.
 
-Education Field:
-The field in which the employee has completed their education, such as Engineering, Business, Science, etc.
+- Evaluate attrition rates by performance, job role, education, and demographics.
 
-Emp no:
-The unique identifier or employee number assigned to each employee.
+- Assess job satisfaction and work conditions (travel requirements, distance from work) impacting retention.
 
-Gender:
-The gender of the employee (e.g., Male, Female).
+- Develop targeted retention strategies to reduce attrition and improve employee engagement.
+  
+## Data Set Used
 
-Job Role:
-The employee's job title or role within the company (e.g., Manager, Analyst, Developer).
+## Key Questions (KPIs) :
 
-Marital Status:
-The employee's marital status (e.g., Single, Married, Divorced).
+### Attrition Analysis:
 
-Over Time:
-Indicates whether the employee works overtime or not (e.g., "Yes" for overtime, "No" for regular hours).
+- What is the overall attrition rate, and how does it break down by performance level (high vs. low)?
+- Which job roles and departments experience the highest attrition?
+- How does education field influence attrition trends?
+- What is the gender distribution in attrition, and are there disparities?
 
-Training Times Last Year:
-The number of times the employee received training in the previous year.
+### Employee Satisfaction & Work Conditions:
 
-Age:
-The age of the employee.
+- How does job satisfaction level correlate with attrition?
 
-Daily Rate:
-The daily wage or salary of the employee.
+- What impact does business travel frequency have on employee retention?
 
-Distance From Home:
-The physical distance (in miles or kilometers) between the employee’s home and the workplace.
+- Does distance from work (fair vs. very fair) affect attrition rates?
 
-Education:
-The highest level of education completed by the employee (e.g., High School, Bachelor's Degree, Master's Degree).
 
-Environment Satisfaction:
-A measure of how satisfied the employee is with their work environment (often rated on a scale from 1 to 4, where 1 is very dissatisfied and 4 is very satisfied).
 
-Hourly Rate:
-The hourly wage rate for the employee.
+## Insights :
 
-Job Involvement:
-A measure of the degree to which the employee feels involved in their job (rated on a scale, typically 1 to 4).
-
-Job Level:
-The employee's job level, which could indicate their rank or seniority in the company (e.g., Level 1 for entry-level, Level 5 for senior management).
-
-Job Satisfaction:
-A measure of how satisfied the employee is with their job, typically rated on a scale (e.g., 1 to 4).
-
-Monthly Income:
-The total monthly income of the employee, which could include salary, bonuses, and other forms of compensation.
-
-Monthly Rate:
-The rate at which the employee is paid per month, potentially related to the pay frequency (could differ from Monthly Income in some cases).
-
-Num Companies Worked:
-The number of companies the employee has worked for during their career.
-
-Percent Salary Hike:
-The percentage increase in the employee's salary, which reflects pay raises over a given period.
-
-Performance Rating:
-A score or rating reflecting the employee’s job performance, typically based on an evaluation system (e.g., 1 to 5).
-
-Relationship Satisfaction:
-A measure of how satisfied the employee is with their relationships with colleagues and supervisors (often rated on a scale from 1 to 4).
-
-Standard Hours:
-The standard number of hours the employee is expected to work each week.
-
-Stock Option Level:
-The level or amount of stock options granted to the employee as part of their compensation package.
-
-Total Working Years:
-The total number of years the employee has worked in their career, including all previous jobs.
-
-Work Life Balance:
-A measure of how well the employee is able to balance their work commitments with personal life (usually rated on a scale from 1 to 4).
-
-Years At Company:
-The number of years the employee has worked at the current company.
-
-Years In Current Role:
-The number of years the employee has been in their current job role or position.
-
-Years Since Last Promotion:
-The number of years since the employee was last promoted to a higher position.
-
-Years With Current Manager:
-The number of years the employee has worked under their current manager.
-
-Age_Band:
-A classification of the employee's age into a range or band (e.g., 20-30, 30-40 years).
-
-Performance:
-A measure of the employee’s overall performance, possibly derived from multiple metrics or evaluations.
-
-Job_Satisfaction:
-A direct measure of the employee's satisfaction with their job, which could overlap with the "Job Satisfaction" column but may be calculated differently.
-
-Distance:
-Likely referring to the distance between the employee’s home and workplace, similar to "Distance From Home."
-
-Total Working Year group:
-Categorizes employees into groups based on the total number of years they have worked (e.g., 0-5 years, 5-10 years).
-
-__________________________________________________________________________________________________________________________________________________
-Summary DashBoard In Excel:
-
-Total Employees (1,470):
-This shows the total number of employees in the company.
-
-Total Attrition Employees (16%):
-16% of the total employees have left the company (attrition).
-
-Total Active Employees (1,233):
-This indicates the number of employees currently active in the company, which is 84% of the total employees.
-
-Average Age of Employee (36):
-The average age of employees in the company is 36 years.
-
-Attrition Breakdown:
-
-By Performance:
-
-High Performance: 37 employees
-
-Low Performance: 200 employees
-
-By Education Field:
-
-Attrition is categorized based on the field of education:
-
-Technical Degree: 32 employees
+- Total Employees (1,470): This shows the total number of employees in the company.
+- Total Attrition Employees (16%): 16% of the total employees have left the company (attrition).
+- Total Active Employees (1,233): This indicates the number of employees currently active in the company, which is 84% of the total employees.
+- Average Age of Employee (36): The average age of employees in the company is 36 years.
+- High Performance: 37 employees
+- Low Performance: 200 employees
+- Attrition is categorized based on the field of education:
+-- Technical Degree: 32 employees
 
 Medical: 63 employees
 
