@@ -12,8 +12,8 @@
 
 - Develop targeted retention strategies to reduce attrition and improve employee engagement.
   
-## Data Set Used
-
+## DataSet Used & DashBoard
+- <a href ="https://github.com/Shahdgmal/HR---Project/blob/main/HR_DataSet.xlsx">DataSet&DashBoard</a>
 ## Key Questions (KPIs) :
 
 ### Attrition Analysis:
